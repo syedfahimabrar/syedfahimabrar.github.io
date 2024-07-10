@@ -36,7 +36,7 @@
       
       {% if project.video %}
       <div class="details">
-        <video muted autoplay controls>
+        <video class="project-videos" muted autoplay controls loop>
           <source src="{{ site.baseurl }}/assets/videos/{{project.video}}" type="video/mp4">
         </video>
       </div>
