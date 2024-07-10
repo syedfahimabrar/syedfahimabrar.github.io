@@ -28,6 +28,9 @@
         <span class="project-skills">| {{ project.skills }}</span>
       </span>
       <br>
+      <div class="details">
+        {% include post-slideshow.html project=project %}
+      </div>
       {% if project.tagline %}
       <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
@@ -36,9 +39,6 @@
       <div class="details">
         {{ project.responsibilities | markdownify }}
       </div><!--//details-->
-      <div class="details">
-        {% include post-slideshow.html project=project %}
-      </div>
       {% endif %}
 
     </div><!--//item-->
