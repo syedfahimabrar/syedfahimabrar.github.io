@@ -222,6 +222,12 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
+  .project-skills {
+    font-size: 12px; /* Smaller font size */
+    font-weight: 300; /* Lighter font weight */
+    margin-left: 5px; /* Some space between the title and skills text */
+    color: lighten($theme-color, 10%); /* Lighter color for differentiation */
+  }
   .projects-section {
     .intro {
       margin-bottom: 30px;
