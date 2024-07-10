@@ -36,6 +36,9 @@
       <div class="details">
         {{ project.responsibilities | markdownify }}
       </div><!--//details-->
+      <div class="details">
+        {% include post-slideshow.html project=project %}
+      </div>
       {% endif %}
 
     </div><!--//item-->

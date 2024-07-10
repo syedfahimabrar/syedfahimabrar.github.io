@@ -147,6 +147,11 @@ projects:
       - title: MeetSum
         skills: Python, NextJS, Runpod, Docker, CosmosDB, Llamacpp, Whisperx, Mistral-7b
         link: "#hook"
+        images:
+            - image: /assets/project_images/meetsum1.jpeg
+              caption: "meeting summary list and record"
+            - image: /assets/project_images/meetsum2.jpeg
+              caption: "Meeting summary details"
         tagline: "MeetSum is an AI-powered assistant that specializes in recording meeting audio, diarizing, and transcribing it using advanced open weight finetuned-LLM served in private data center. It alleviates the need for manual note-taking, allowing participants to stay more focused during discussions. MeetSum enhances meeting efficiency by automatically generating concise, accurate summaries and actionable minutes. This tool seamlessly integrates with any meeting platforms, ensuring a smooth user experience."
         responsibilities: |
             - Led GenAI project development, overseeing task management, ensuring timely delivery, and coordinating efforts across the development team.
@@ -158,7 +163,8 @@ projects:
             - Used Llamacpp to serve and query LLM efficiently, successfully serving quantized models to increase GPU
               memory efficiency while maintaining relevant results.
             - Optimized scalability and performance through serverless architecture using Runpod and Docker
-      - title: DevStudio
+      - title: Jengax
+        skills: .NET Core, Azure Function, CosmosDB, Redis, Azure Service Bus
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
