@@ -112,7 +112,7 @@ experiences:
             - Implemented real-time communication and data transmission through SignalR and socket programming
       - role: Junior Software Engineer
         time: Nov. 2019 – Jun 2020
-        company: Dynamic Solvers Bangladesh Ltd, London
+        company: Dynamic Solvers Bangladesh Ltd,Dhaka,BD
         link: https://www.linkedin.com/company/dynamic-solvers-bangladesh/
         details: |
             - Developed high-performance API with .Net Core
@@ -125,13 +125,13 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
+        - name: Microsoft Certified: Azure Fundamentals
+          start: Jan. 15,2022
+          end: 
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialid: 540a0fb3-a730-484d-92d6-702ecf55f9cc
+          credentialurl: https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
+          credentialname: Available at https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -146,13 +146,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Generative AI with Large Language Models by DeepLearning.AI
+          start: 20Feb. 28,2024
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: DeepLearning.AI
+          credentialid: 7F6YGZBG8AY5
+          credentialurl: https://www.coursera.org/account/accomplishments/verify/7F6YGZBG8AY5
+          credentialname: Available at https://www.coursera.org/account/accomplishments/verify/7F6YGZBG8AY5
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
