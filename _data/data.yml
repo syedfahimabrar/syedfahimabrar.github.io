@@ -76,6 +76,7 @@ experiences:
       - role: Software Engineer
         time: 2015 - Present
         company: Cefalo AS, Dhaka, BD
+        link: https://cefalo.com
         details: |
             - Designed and implemented microservices architecture using Azure Functions and Service Bus to enable
               event-driven communication between microservices. detailed specifications with clear project deliverables and
@@ -94,6 +95,7 @@ experiences:
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
+        link: https://cefalo.com
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,6 +107,7 @@ experiences:
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
+        link: https://cefalo.com
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
