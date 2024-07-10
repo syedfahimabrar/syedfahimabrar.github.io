@@ -242,6 +242,10 @@ p {
     }
   }
 
+  .carousel-inner {
+    max-height: 300px !important;
+  }
+
   .publication-title {
     font-size: 16px;
     font-weight: 400;
