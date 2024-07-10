@@ -151,10 +151,10 @@ projects:
         images:
             - image: /assets/project_images/meetsum1.jpeg
               id: 1
-              caption: "meeting summary list and record"
+              caption: "Meeting summary details"
             - image: /assets/project_images/meetsum2.jpeg
               id: 2
-              caption: "Meeting summary details"
+              caption: "Meeting summary list and record"
         tagline: "MeetSum is an AI-powered assistant that specializes in recording meeting audio, diarizing, and transcribing it using advanced open weight finetuned-LLM served in private data center. It alleviates the need for manual note-taking, allowing participants to stay more focused during discussions. MeetSum enhances meeting efficiency by automatically generating concise, accurate summaries and actionable minutes. This tool seamlessly integrates with any meeting platforms, ensuring a smooth user experience."
         responsibilities: |
             - Led GenAI project development, overseeing task management, ensuring timely delivery, and coordinating efforts across the development team.
@@ -184,7 +184,23 @@ projects:
       - title: Geologiq
         skills: .Net Core, Angular, RxJS, Docker, Azure Devops
         video: video_loop.mp4
-        link: "#"
+        images: 
+            - image: /assets/project_images/geologiq1.png
+              id: 1
+              caption: "Geologiq digital twin of well"
+            - image: /assets/project_images/geologiq2.png
+              id: 2
+              caption: "Geologiq digital twin of well"
+            - image: /assets/project_images/geologiq3.png
+              id: 3
+              caption: "Geologiq offset analyzer"
+            - image: /assets/project_images/offset-analyzer.png
+              id: 4
+              caption: "Offset Analyzer is a powerful tool for well planning and data-driven risk management"
+            - image: /assets/project_images/traq-n.png
+              id: 5
+              caption: "Innovative track & trace application for Supply Chain Management."
+        link: "https://www.informatiq.no/#geologiq-video"
         tagline: "GeologiQ is a DIGITAL TWIN of an entire oilfield loaded with data and tools that will assist DRILLING & WELL teams in every part of the WELL DELIVERY PROCESS.The key to a successful well lies in the details. The combination of 3D and 2D makes it possible to TRANSFER EXPERIENCE and extract REFERENCE WELL data faster in a game like 3d environment.GeologiQ models are based on REAL DATA - either manually gathered or by integration with the client 3rd party API's."
         responsibilities: |
             - Contributed to development of microservice-based api using .NET Core
@@ -197,7 +213,7 @@ projects:
       - title: Wellbook
         skills: Angular, RxJS, Typescript
         link: "#"
-        tagline: "Wellbook is a project planning software built for specifically well industry,That helps well engineers to assign tasks,track progress and assist to take decisions by visualizing different graphs based on data produced by Geologiq."
+        tagline: "Wellbook is a project planning software built for specifically well industry,That helps well engineers to assign tasks,track progress and assist to take decisions by visualizing different graphs based on data produced by Geologiq.The initial development was based on a desire to digitize a process normally managed in spreadsheets. Wellbook is made by drilling engineers for drilling engineers. It can easily be adapted to client work processes like well planning, interventions, rig intakes etc. The key in Wellbook are the activities (eg. tasks, meetings, decision gates). Each activity is linked to input, output (results), documentation, RACI roles, decisions, actions, minutes of meeting, comments, progress and of course a detailed description of how to perform the task.The architecture of wellbook makes it possible to optimize each part of the planning process in a digitial way, step by step. Orchestrating the movement of data instead of documents."
         responsibilities: |
             - Built the backend .NET Core API for the project.
             - Integrated the API with an existing Angular application using micro-frontend architecture, leveraging web components.
