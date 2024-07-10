@@ -58,20 +58,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Computer Science & Engineering
+        university: Daffodil International University
+        time: 2016 - 2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,21 +73,24 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Software Engineer
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Cefalo AS, Dhaka, BD
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            • Designed and implemented microservices architecture using Azure Functions and Service Bus to enable
+event-driven communication between microservices. detailed specifications with clear project deliverables and
+timelines to meet strict deadlines.
+• Led Generative AI based projects leveraging frameworks such as Llamacpp and llamaindex, and utilizing
+state-of-the-art large language models like Whisper, OpenAI and Mistral etc.
+• Configured and managed Redis Cache, Azure Blob Storage to improve the performance and scalability of the
+software system
+• Configured and managed Azure API Gateway to manage and secure API access and provide analytics on API
+usage, improving the security and usability of the software system.
+• Developed and maintained CI/CD pipelines using Azure DevOps, reducing deployment time and ensuring the
+availability and reliability of the software system.
+• Architected high-performance data systems utilizing Cosmos DB, MSSQL, and Entity Framework
+• Created and maintained technical documentation, user guides, and release notes, improving communication and
+knowledge sharing within the team and client
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
