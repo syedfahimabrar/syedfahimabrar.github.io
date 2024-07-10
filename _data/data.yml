@@ -74,7 +74,7 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
-        time: 2015 - Present
+        time: Jul. 2022 – Present
         company: Cefalo AS, Dhaka, BD
         link: https://cefalo.com
         details: |
@@ -92,30 +92,35 @@ experiences:
             - Architected high-performance data systems utilizing Cosmos DB, MSSQL, and Entity Framework
             - Created and maintained technical documentation, user guides, and release notes, improving communication and
               knowledge sharing within the team and client
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        link: https://cefalo.com
+      - role: Software Engineer
+        time: Jan. 2022 – Jun. 202
+        company: Brainstation23 Ltd, Dhaka, BD
+        link: https://brainstation-23.com/
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        link: https://cefalo.com
+            - Worked closely with Project Managers and other developers to define parameters and plan detailed specifications with clear project deliverables and timelines to meet strict deadlines.
+            - Developed back-end Web services in ASP.NET core with microservices architectures.
+            - Developed reactive web application with Rx.NET and Blazor
+            - Worked with the latest cutting-edge technologies like Docker,Kubernetes,GitHub-Actions etc
+      - role: Associate Software Engineer II
+        time: Nov. 2020 - Dec. 2021
+        company: Brainstation23 Ltd, Dhaka, BD
+        link: https://brainstation-23.com/
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Designed client-side code with Angular, Rxjs, specifically known as reactive web app
+            - Collaborated in integrating diverse stack web UI applications featuring web components from React, Angular
+              etc.
+            - Implemented real-time communication and data transmission through SignalR and socket programming
+      - role: Junior Software Engineer
+        time: Nov. 2019 – Jun 2020
+        company: Dynamic Solvers Bangladesh Ltd, London
+        link: https://www.linkedin.com/company/dynamic-solvers-bangladesh/
+        details: |
+            - Developed high-performance API with .Net Core
+            - Developed Windows and Linux worker services
+            - Contributed to a map based mobile application in the Flutter
+            - Introduced and implemented a successful DevOps pipeline for the first time, resulting in a significant reduction in
+              deployment failures, bugs, and overall deployment time.
+
 
 certifications:
       title: Certifications
