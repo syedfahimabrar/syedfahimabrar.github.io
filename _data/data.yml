@@ -14,41 +14,38 @@ sidebar:
 
     # Sidebar links
     email: mail@fahimabrar.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    phone: (+880) 1303455415
+    timezone: Asia/Dhaka Timezone
+    citizenship: Bangladeshi
+    website: blog.fahimabrar.com #do not add http://
+    linkedin: abrarfahim
+    xing: 
+    github: syedfahimabrar
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 7584160/syed-mohammad-fahim-abrar # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://fahimabrar.com/Fahim_Abrar.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Bengali
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gaming
           link:
 
-        - item: Snowboarding
+        - item: Reading Books
           link:
 
         - item: Cooking
@@ -57,12 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As an experienced and dedicated Software Engineer, I have a strong passion for designing and implementing innovative solutions using cutting-edge technologies. My background includes extensive experience in microservices architectures, cloud computing, and AI-based projects, which has equipped me with a robust skill set to tackle complex technical challenges.
 education:
     title: Education
     info:
