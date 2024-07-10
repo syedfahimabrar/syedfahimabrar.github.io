@@ -25,11 +25,11 @@
         {% else %}
         {{ project.title }}
         {% endif %}
-        <span class="project-skills">| HTML, CSS, JavaScript</span>
+        <span class="project-skills">| {{ project.skills }}</span>
       </span>
-
+      <br>
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
       {% if project.responsibilities %}
