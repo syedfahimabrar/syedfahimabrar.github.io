@@ -77,20 +77,20 @@ experiences:
         time: 2015 - Present
         company: Cefalo AS, Dhaka, BD
         details: |
-            • Designed and implemented microservices architecture using Azure Functions and Service Bus to enable
-event-driven communication between microservices. detailed specifications with clear project deliverables and
-timelines to meet strict deadlines.
-• Led Generative AI based projects leveraging frameworks such as Llamacpp and llamaindex, and utilizing
-state-of-the-art large language models like Whisper, OpenAI and Mistral etc.
-• Configured and managed Redis Cache, Azure Blob Storage to improve the performance and scalability of the
-software system
-• Configured and managed Azure API Gateway to manage and secure API access and provide analytics on API
-usage, improving the security and usability of the software system.
-• Developed and maintained CI/CD pipelines using Azure DevOps, reducing deployment time and ensuring the
-availability and reliability of the software system.
-• Architected high-performance data systems utilizing Cosmos DB, MSSQL, and Entity Framework
-• Created and maintained technical documentation, user guides, and release notes, improving communication and
-knowledge sharing within the team and client
+            - Designed and implemented microservices architecture using Azure Functions and Service Bus to enable
+              event-driven communication between microservices. detailed specifications with clear project deliverables and
+              timelines to meet strict deadlines.
+            - Led Generative AI based projects leveraging frameworks such as Llamacpp and llamaindex, and utilizing
+              state-of-the-art large language models like Whisper, OpenAI and Mistral etc.
+            - Configured and managed Redis Cache, Azure Blob Storage to improve the performance and scalability of the
+              software system
+            - Configured and managed Azure API Gateway to manage and secure API access and provide analytics on API
+              usage, improving the security and usability of the software system.
+            - Developed and maintained CI/CD pipelines using Azure DevOps, reducing deployment time and ensuring the
+              availability and reliability of the software system.
+            - Architected high-performance data systems utilizing Cosmos DB, MSSQL, and Entity Framework
+            - Created and maintained technical documentation, user guides, and release notes, improving communication and
+              knowledge sharing within the team and client
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
