@@ -133,20 +133,6 @@ certifications:
           credentialurl: https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
           credentialname: Available at https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Generative AI with Large Language Models by DeepLearning.AI
           start: 20Feb. 28,2024
           end:
           organization: DeepLearning.AI
@@ -154,14 +140,6 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/verify/7F6YGZBG8AY5
           credentialname: Available at https://www.coursera.org/account/accomplishments/verify/7F6YGZBG8AY5
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
