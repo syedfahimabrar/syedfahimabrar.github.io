@@ -169,19 +169,40 @@ projects:
       - title: Jengax
         skills: .NET Core, Azure Function, CosmosDB, Redis, Azure Service Bus
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "JengaX is here to solve crypto's biggest problem: making it easy to use for everyone JengaX API is an API product that facilitates crypto buying and selling using local fiat currency. The product was initially launched for the African market and it eventually will operate in europe. The API is a cloud native project that can scale to any demand and operates as a serverless system. This model allows for maximum performance and cost efficiency at the same time."
+        responsibilities: |
+            - Contributed to develop subscription-based microservice API with Azure APIM ,Azure Function, Azure Service Bus and Azure Active Directory
+            - Contributed to apply rate limit in the current system synchronized with third party systems
+            - Developed token bucket using semaphore to avoid duplicate auth request to external system
+            - Developed CI/CD pipeline with Azure Devops and Powershell to automate the deployment in dev,uat,test and
+              prod environment
+            - Contributed to develop Iaac for the project with help of Bicep
+            - Developed and designed efficient database containers, aligned with intricate business logic, to optimize the SAAS
+              application's performance and scalability through sharding.
+            - Developed notification services to notify important messages through webhooks and socket URL with SignalR
 
-      - title: Tempo
+      - title: Geologiq
+        skills: .Net Core, Angular, RxJS, Docker, Azure Devops
+        video: video_loop.mp4
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "GeologiQ is a DIGITAL TWIN of an entire oilfield loaded with data and tools that will assist DRILLING & WELL teams in every part of the WELL DELIVERY PROCESS.The key to a successful well lies in the details. The combination of 3D and 2D makes it possible to TRANSFER EXPERIENCE and extract REFERENCE WELL data faster in a game like 3d environment.GeologiQ models are based on REAL DATA - either manually gathered or by integration with the client 3rd party API's."
+        responsibilities: |
+            - Contributed to development of microservice-based api using .NET Core
+            - Designed and developed reactive front-end application with Angular,RxJS and Blazor
+            - Implemented continuous delivery using Azure Devops to deploy the system upon new release
+            - Collaborated closely with clients to efficiently manage and resolve new tasks in Azure DevOps Kanban board,
+              ensuring seamless workflow and timely resolution of issues.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Wellbook
+        skills: Angular, RxJS, Typescript
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Wellbook is a project planning software built for specifically well industry,That helps well engineers to assign tasks,track progress and assist to take decisions by visualizing different graphs based on data produced by Geologiq."
+        responsibilities: |
+            - Built the backend .NET Core API for the project.
+            - Integrated the API with an existing Angular application using micro-frontend architecture, leveraging web components.
+            - Designed and developed a reactive front-end application with Angular and RxJS.
+            - Created various project management components.
 
 oss:
     title: OSS Contributions

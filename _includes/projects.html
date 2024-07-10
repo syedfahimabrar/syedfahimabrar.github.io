@@ -28,9 +28,19 @@
         <span class="project-skills">| {{ project.skills }}</span>
       </span>
       <br>
+      {% if project.images %}
       <div class="details">
         {% include post-slideshow.html project=project %}
       </div>
+      {% endif %}
+      
+      {% if project.video %}
+      <div class="details">
+        <video muted autoplay controls>
+          <source src="{{ site.baseurl }}/assets/videos/{{project.video}}" type="video/mp4">
+        </video>
+      </div>
+      {% endif %}
       {% if project.tagline %}
       <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
