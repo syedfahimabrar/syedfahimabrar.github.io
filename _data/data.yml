@@ -125,7 +125,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Microsoft Certified: Azure Fundamentals
+        - name: 'Microsoft Certified: Azure Fundamentals'
           start: Jan. 15,2022
           end: 
           organization: Microsoft
