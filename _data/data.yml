@@ -133,7 +133,8 @@ certifications:
           credentialurl: https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
           credentialname: Available at https://www.credly.com/badges/540a0fb3-a730-484d-92d6-702ecf55f9cc
           details: |
-          start: 20Feb. 28,2024
+        - name: 'Generative AI with Large Language Models by DeepLearning.AI'
+          start: Feb. 28,2024
           end:
           organization: DeepLearning.AI
           credentialid: 7F6YGZBG8AY5
