@@ -273,6 +273,7 @@ skills:
             - name: Python 
             - name: Bicep
       - type: Frameworks
+        icon: fas fa-layer-group
         list:
             - name: Asp.net Core 
             - name: .Net Core 
@@ -282,6 +283,7 @@ skills:
             - name: SignalR 
             - name: XUnit
       - type: DevOps Tools
+        icon: fas fa-tools
         list:
              - name: Git
              - name: Docker
@@ -289,12 +291,14 @@ skills:
              - name: Github Actions
              - name: Azure Devops
       - type: Database
+        icon: fas fa-database
         list:
             - name: MSSQL
             - name: CosmosDB
             - name: Redis
             - name: MySQL
       - type: AI
+        icon: fas fa-brain
         list:
             - name: OpenAI API
             - name: HuggingFace Transformers
