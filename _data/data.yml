@@ -212,7 +212,14 @@ projects:
 
       - title: Wellbook
         skills: Angular, RxJS, Typescript
-        link: "#"
+        link: "https://www.informatiq.no/#wellbook-video"
+        images:
+            - image: /assets/project_images/wellbook1.png
+              id: 1
+              caption: "The key in Wellbook are the activities (eg. tasks, meetings, decision gates). "
+            - image: /assets/project_images/wellbook2.png
+              id: 2
+              caption: "Orchestrating the movement of data instead of documents."
         tagline: "Wellbook is a project planning software built for specifically well industry,That helps well engineers to assign tasks,track progress and assist to take decisions by visualizing different graphs based on data produced by Geologiq.The initial development was based on a desire to digitize a process normally managed in spreadsheets. Wellbook is made by drilling engineers for drilling engineers. It can easily be adapted to client work processes like well planning, interventions, rig intakes etc. The key in Wellbook are the activities (eg. tasks, meetings, decision gates). Each activity is linked to input, output (results), documentation, RACI roles, decisions, actions, minutes of meeting, comments, progress and of course a detailed description of how to perform the task.The architecture of wellbook makes it possible to optimize each part of the planning process in a digitial way, step by step. Orchestrating the movement of data instead of documents."
         responsibilities: |
             - Built the backend .NET Core API for the project.
