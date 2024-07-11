@@ -12,7 +12,7 @@
     {% for skill in skills.toolset %}
     <div class="col-md-6">
         <div class="skill-card">
-            <h3><i class={{skill.icon}}></i> {{skill.type}} </h3>
+            <h3><i class="{{skill.icon}}"></i> {{skill.type}} </h3>
             <ul>
               {% for subSkill in skill.list %}
                 <li>{{subSkill.name}}</li>

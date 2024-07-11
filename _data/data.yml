@@ -267,21 +267,48 @@ skills:
         list: 
             - name: C#
             - name: Typescript
-
+            - name: Javascript
+            - name: MSSQL 
+            - name: Powershell 
+            - name: Python 
+            - name: Bicep
+      - type: Frameworks
+        list:
+            - name: Asp.net Core 
+            - name: .Net Core 
+            - name: Angular 
+            - name: RxJS 
+            - name: Entity Framework 
+            - name: SignalR 
+            - name: XUnit
+      - type: DevOps Tools
+        list:
+             - name: Git
+             - name: Docker
+             - name: TravisCI
+             - name: Github Actions
+             - name: Azure Devops
+      - type: Database
+        list:
+            - name: MSSQL
+            - name: CosmosDB
+            - name: Redis
+            - name: MySQL
+      - type: AI
+        list:
+            - name: OpenAI API
+            - name: HuggingFace Transformers
+            - name: Llamacpp
+            - name: LlamaIndex
+            - name: Langchain
+            - name: PEFT
+            - name: RAG
+            - name: Pandas
+            - name: Pytorch
+            - name: Generative AI
       - type: Cloud
         icon: fas fa-cloud
         list:
-            - name: Azure
+            - name: AWS
             - name: Angular
-
-      - name: 
-        level: 95%
-
-      - name: 
-        level: 90%
-
-      - name: 
-        level: 60%
-      
-      - name: XUnit
-        level: 60%
+            - name: Kubernetes
