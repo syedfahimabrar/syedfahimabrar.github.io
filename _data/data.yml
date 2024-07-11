@@ -262,20 +262,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - type: Languages
+        icon: fas fa-code
+        list: 
+            - name: C#
+            - name: Typescript
 
-      - name: Javascript & jQuery
-        level: 98%
+      - type: Cloud
+        icon: fas fa-cloud
+        list:
+            - name: Azure
+            - name: Angular
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: 
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: 
+        level: 60%
+      
+      - name: XUnit
         level: 60%
