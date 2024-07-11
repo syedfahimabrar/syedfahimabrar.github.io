@@ -168,7 +168,11 @@ projects:
             - Optimized scalability and performance through serverless architecture using Runpod and Docker
       - title: Jengax
         skills: .NET Core, Azure Function, CosmosDB, Redis, Azure Service Bus
-        link: "#"
+        link: "https://www.jengax.com/"
+        images: 
+            - image: /assets/project_images/jengax.png
+              id: 1
+              caption: "Jengax crypto exchange"
         tagline: "JengaX is here to solve crypto's biggest problem: making it easy to use for everyone JengaX API is an API product that facilitates crypto buying and selling using local fiat currency. The product was initially launched for the African market and it eventually will operate in europe. The API is a cloud native project that can scale to any demand and operates as a serverless system. This model allows for maximum performance and cost efficiency at the same time."
         responsibilities: |
             - Contributed to develop subscription-based microservice API with Azure APIM ,Azure Function, Azure Service Bus and Azure Active Directory
