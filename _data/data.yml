@@ -173,7 +173,7 @@ projects:
         responsibilities: |
             - Contributed to develop subscription-based microservice API with Azure APIM ,Azure Function, Azure Service Bus and Azure Active Directory
             - Contributed to apply rate limit in the current system synchronized with third party systems
-            - Developed token bucket using semaphore to avoid duplicate auth request to external system
+            - Developed [token bucket using semaphore](https://blog.fahimabrar.com/how-i-prevented-duplicate-token-request-in-an-identity-server-using-semaphore-technique) to avoid duplicate auth request to external system
             - Developed CI/CD pipeline with Azure Devops and Powershell to automate the deployment in dev,uat,test and
               prod environment
             - Contributed to develop Iaac for the project with help of Bicep
