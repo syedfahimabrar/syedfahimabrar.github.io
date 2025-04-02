@@ -72,8 +72,18 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Software Engineer
+        time: Jan. 2025 – Present
+        company: Cefalo AS, Dhaka, BD
+        link: https://cefalo.com
+        details: |
+            - Designed and implemented microservices architecture using Azure Functions and Service Bus to enable
+              event-driven communication between microservices. detailed specifications with clear project deliverables and
+              timelines to meet strict deadlines.
+            - Led Generative AI based projects leveraging frameworks such as Llamacpp and llamaindex, and utilizing
+              state-of-the-art large language models like Whisper, OpenAI and Mistral etc.
       - role: Software Engineer
-        time: Jul. 2022 – Present
+        time: Jul. 2022 – Dec. 2024
         company: Cefalo AS, Dhaka, BD
         link: https://cefalo.com
         details: |
